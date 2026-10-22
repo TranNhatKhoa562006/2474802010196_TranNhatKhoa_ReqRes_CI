@@ -1,0 +1,28 @@
+{
+	"id": "bb723c36-3dc5-471e-984f-6e1277560a56",
+	"name": "2474802010196_TranNhatKhoa_ReqRes_Env",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-10-22T14:28:01.872Z",
+	"_postman_exported_using": "Postman/12.33.3-261022-0328"
+}
